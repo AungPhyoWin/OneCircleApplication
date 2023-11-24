@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircleApplication\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-11-24T14:16:02.6509361Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
