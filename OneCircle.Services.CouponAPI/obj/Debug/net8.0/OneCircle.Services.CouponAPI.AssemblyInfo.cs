@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OneCircle.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac947f4037d2bacbdee908acb6921fa3560560d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfcd7cdd8279e4f973653423a7ab87bf8d7e8026")]
 [assembly: System.Reflection.AssemblyProductAttribute("OneCircle.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OneCircle.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
