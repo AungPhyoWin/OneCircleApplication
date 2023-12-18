@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WjAJhDMtzSrSGeL0S1mqubjmhrpzgbUliC1xXzSNM6Y=",
+  "Source": "OneCircle.Services.CouponAPI",
+  "BasePath": "_content/OneCircle.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

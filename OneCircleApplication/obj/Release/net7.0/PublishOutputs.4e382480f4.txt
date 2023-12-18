@@ -1,7 +1,0 @@
-C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircleApplication\obj\Release\net7.0\PubTmp\Out\OneCircleApplication.exe
-C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircleApplication\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
-C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircleApplication\obj\Release\net7.0\PubTmp\Out\appsettings.json
-C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircleApplication\obj\Release\net7.0\PubTmp\Out\OneCircleApplication.dll
-C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircleApplication\obj\Release\net7.0\PubTmp\Out\OneCircleApplication.deps.json
-C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircleApplication\obj\Release\net7.0\PubTmp\Out\OneCircleApplication.runtimeconfig.json
-C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircleApplication\obj\Release\net7.0\PubTmp\Out\OneCircleApplication.pdb
