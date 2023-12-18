@@ -32,3 +32,5 @@ C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircle.Services.CouponAPI\obj\D
 C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircle.Services.CouponAPI\obj\Debug\net8.0\OneCircle.Services.CouponAPI.pdb
 C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircle.Services.CouponAPI\obj\Debug\net8.0\OneCircle.Services.CouponAPI.genruntimeconfig.cache
 C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircle.Services.CouponAPI\obj\Debug\net8.0\ref\OneCircle.Services.CouponAPI.dll
+C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircle.Services.CouponAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\ASPNET\DonetOneCircle\OneCircleApplication\OneCircle.Services.CouponAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
